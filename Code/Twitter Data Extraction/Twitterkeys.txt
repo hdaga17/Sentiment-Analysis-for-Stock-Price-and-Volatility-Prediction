@@ -1,0 +1,19 @@
+API Key(Think of the API key as the user name that represents your App when making API requests. It helps us verify who you are): u6PRgSczuX5s84uhirZnp4Gkw
+
+
+API Key Secret (Your API Key Secret is like a password and helps verify your API Key. This will be one of the last times you'll see it displayed, so remember to save it in a safe place.):
+XYdq44n6c2KG1Q4G40CHSdJsZDMJiZY7JIow7qFmA1sgiEdyMV
+
+
+
+
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAPLKjgEAAAAAz4X%2Fn97DlTBC4uVlo8zPqgu9sJU%3D0YxkmfJ9iaKY4WlHiQ8TbPdffanzfh5FB917vZHbQyawvKh9XL
+
+
+
+Acess token: 1248280365493452806-H4yjHv4l0jdpyJA7SGIV3G4nQ7e8iO
+
+
+
+
+Access Token secret: uIUqoz8ZXjvxBbX1pTNjTnb1egihteXWmlsx6Fd3XvqtI
